@@ -1,0 +1,17 @@
+#nav{
+    background-color: black !important;
+}
+.top-navigation{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    background-color: pink;
+}
+ body {
+    margin: 0px;
+    background-color: blue;
+}
+ul{
+    background-color: chartreuse !important;
+}
